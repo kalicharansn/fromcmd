@@ -16,6 +16,8 @@ public class Linkedhashmap {
 		empdetails.put(null, "Virat");
 		System.out.println(empdetails);
 
+System.out.println(empdetails);
+
 		HashMap<Integer, String> empdetailsall = new HashMap<Integer, String>();
 		empdetailsall.putAll(empdetails);
 		System.out.println(empdetailsall);		
